@@ -15,10 +15,7 @@
    'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
    'Code\\Projects\\password-generator\\build\\password-generator\\PYZ-00.pyz',
    'PYZ'),
-  ('struct',
-   'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
-   'Code\\Projects\\password-generator\\build\\password-generator\\localpycos\\struct.pyo',
-   'PYMODULE'),
+  ('struct', 'c:\\program files\\python39\\lib\\struct.pyo', 'PYMODULE'),
   ('pyimod01_os_path',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
@@ -39,6 +36,14 @@
    'C:\\Program '
    'Files\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
    'PYSOURCE'),
+  ('pyi_rth_win32api',
+   'C:\\Program '
+   'Files\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32api.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Program '
+   'Files\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
   ('pyi_rth_multiprocessing',
    'C:\\Program '
    'Files\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
@@ -51,9 +56,17 @@
    'c:\\program files\\python39\\VCRUNTIME140.dll',
    'BINARY'),
   ('python39.dll', 'c:\\program files\\python39\\python39.dll', 'BINARY'),
-  ('libopenblas.JPIJNSWNNAN3CE6LLI5FWSPHUT2VXMTH.gfortran-win_amd64.dll',
+  ('libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
    'c:\\program '
-   'files\\python39\\lib\\site-packages\\numpy\\.libs\\libopenblas.JPIJNSWNNAN3CE6LLI5FWSPHUT2VXMTH.gfortran-win_amd64.dll',
+   'files\\python39\\lib\\site-packages\\numpy\\.libs\\libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('pythoncom39.dll',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pywin32_system32\\pythoncom39.dll',
+   'BINARY'),
+  ('pywintypes39.dll',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pywin32_system32\\pywintypes39.dll',
    'BINARY'),
   ('_multiprocessing',
    'c:\\program files\\python39\\DLLs\\_multiprocessing.pyd',
@@ -69,11 +82,28 @@
   ('select', 'c:\\program files\\python39\\DLLs\\select.pyd', 'EXTENSION'),
   ('_uuid', 'c:\\program files\\python39\\DLLs\\_uuid.pyd', 'EXTENSION'),
   ('_ctypes', 'c:\\program files\\python39\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('win32api',
+   'c:\\program files\\python39\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32com.shell.shell',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('win32trace',
+   'c:\\program files\\python39\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'c:\\program files\\python39\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
   ('_overlapped',
    'c:\\program files\\python39\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
   ('_asyncio', 'c:\\program files\\python39\\DLLs\\_asyncio.pyd', 'EXTENSION'),
   ('_queue', 'c:\\program files\\python39\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
   ('numpy.core._multiarray_umath',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
@@ -81,6 +111,9 @@
   ('numpy.core._multiarray_tests',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32pdh',
+   'c:\\program files\\python39\\lib\\site-packages\\win32\\win32pdh.pyd',
    'EXTENSION'),
   ('numpy.linalg.lapack_lite',
    'c:\\program '
@@ -139,36 +172,43 @@
    'c:\\program files\\python39\\DLLs\\libssl-1_1.dll',
    'BINARY'),
   ('libffi-7.dll', 'c:\\program files\\python39\\DLLs\\libffi-7.dll', 'BINARY'),
+  ('mfc140u.dll',
+   'c:\\program files\\python39\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
   ('base_library.zip',
    'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
    'Code\\Projects\\password-generator\\build\\password-generator\\base_library.zip',
    'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\top_level.txt',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\top_level.txt',
-   'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\WHEEL',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\WHEEL',
-   'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\LICENSE',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\LICENSE',
-   'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\METADATA',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\METADATA',
-   'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\RECORD',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\RECORD',
-   'DATA'),
   ('Include\\pyconfig.h',
    'c:\\program files\\python39\\Include\\pyconfig.h',
    'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\INSTALLER',
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\RECORD',
    'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\INSTALLER',
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\RECORD',
+   'DATA'),
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\INSTALLER',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\top_level.txt',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\REQUESTED',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\METADATA',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\METADATA',
+   'DATA'),
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\WHEEL',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\WHEEL',
+   'DATA'),
+  ('importlib_metadata-3.10.0-py3.9.egg-info\\LICENSE',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.10.0.dist-info\\LICENSE',
    'DATA'),
   ('password-generator.exe.manifest',
    'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
@@ -180,7 +220,7 @@
  [],
  False,
  False,
- 1615841585,
+ 1617343575,
  [('run.exe',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
